@@ -1,5 +1,4 @@
 # DecisionSupportSystem
-# DecisionSupportSystem
 Ứng dụng dự đoán và trực quan hóa nhu cầu sản phẩm
 hệ thống dự báo nhu cầu sản phẩm được xây dựng bằng thư viện Streamlit của Python. Hệ thống sử dụng mô hình hồi quy Random Forest để dự đoán số lượng sản phẩm sẽ được bán trong tương lai dựa trên dữ liệu bán hàng lịch sử.
 
